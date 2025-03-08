@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Aamirshahzad
-- 👀 I’m interested in Agentic AI & Hyper Automation
-- 🌱 I’m currently learning Genrative AI
-- 💞️ I’m looking to collaborate on Multi-Agentic system development 
-- 📫 How to reach me for working with me https://www.upwork.com/freelancers/~010b8ad83396b72141?mp_source=share
 
-<!---
-Aamirshazad/Aamirshazad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Hi there! 👋 I'm Aamir Shahzad
+### Agentic AI Developer 
+
+🚀 Now building cutting-edge Agentic AI applications, designing API-first AI microservices, and working with event-driven architectures. Passionate about crafting scalable and efficient AI-powered solutions.
+  
+   🤖 Expertise in: LangGraph, Crewai, LangChain, and Cloud-based Agentic AI development    
+   🛠 Tech Stack: FastAPI, SQLModel, PostgreSQL, MySQL, Prisma ORM, Knowledge Graphs, Kafka, Python, TypeScript, Next.js, TailwindCSS, Docker, Google Cloud    
+   📚 Currently Learning: Agentic system     
+   🎓 Constantly learning and pushing the boundaries of AI engineering.
